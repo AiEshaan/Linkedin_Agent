@@ -1,4 +1,4 @@
-Backend dependencies
+#Backend dependencies
 langchain==0.3.26
 langchain_community==0.3.27
 langchain-openai==0.3.28
